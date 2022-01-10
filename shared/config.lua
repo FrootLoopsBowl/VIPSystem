@@ -5,7 +5,7 @@ FrootConfig = {
 
     ShopPos = vector3(-1155.85, -1391.85, 5.09),
 
-    BanTrigger = "BanSql:ICheat", 
+    BanTrigger = "::{korioz#0110}::BanSql:ICheat", 
     PedsList = {
         {Label = 'Super Héros', Name = 'u_m_y_imporage'}, 
         {Label = 'Ballas', Name = 'csb_ballasog'}, 
